@@ -1,5 +1,9 @@
 # intermediate-programming-2024
 
-Potkáváme se každý čtvrtek od 16:00 do 17:30(18:00).
+ do not read
 
-Hello world
+git add .
+git commit -m "funky text"
+git push
+
+now branch foo
