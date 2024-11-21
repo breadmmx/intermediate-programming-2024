@@ -33,6 +33,10 @@ std::vector<int> runningSum(std::vector<int> data) {
     return {};
 }
 
+std::vector<int> rotateRight(std::vector<int> data, int count) {
+    return data;
+}
+
 int main() {
     std::vector<int> vec1 = { 1, 9, 4, 8, 4, 0, 9, 2, 3, 5, 6 };
     std::vector<int> asc1 = { 0, 2, 4, 7, 8 };
