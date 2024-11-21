@@ -6,6 +6,8 @@ Hello world
 
  do not read
 
-git add
+git add .
 git commit -m "funky text"
 git push
+
+now branch foo
