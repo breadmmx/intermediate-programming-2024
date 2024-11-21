@@ -2,8 +2,10 @@
 #include <vector>
 
 void print(std::vector<int> data) {
-    if (data.size() == 0)
+    if (data.size() == 0) {
         std::cout << "[]";
+        return;
+    }
 
     std::cout << "[ ";
     for (std::size_t i = 0; i < data.size() - 1; i++) {
